@@ -1,0 +1,5 @@
+# Project exclude paths
+/base/target/
+.idea
+Algorithms.iml
+base.iml
