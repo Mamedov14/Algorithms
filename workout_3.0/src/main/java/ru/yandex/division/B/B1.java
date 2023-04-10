@@ -1,4 +1,4 @@
-package ru.yandex;
+package ru.yandex.division.B;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
