@@ -4,6 +4,7 @@
 #### lesson_1
 + [A. Кондиционер](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_1/A.md) [Изи]
 + [B. Треугольник](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_1/B.md) [Тупо правило треугольника]
++ [D. Уравнение с корнем](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_1/D.md) [Честно расписать]
 ### Тренировка 2.0.
 + 
 ### Тренировка 3.0.
