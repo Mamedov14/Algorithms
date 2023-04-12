@@ -8,6 +8,7 @@
 + [F. Расстановка ноутбуков](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_1/F.md) [База]
 ### Тренировка 2.0.
 + [A. Возрастает ли список?](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_2/A.md) [База]
++ [B. Определить вид последовательности](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_2/B.md) [База]
 ### Тренировка 3.0.
 #### Дивизион A.
 + 
