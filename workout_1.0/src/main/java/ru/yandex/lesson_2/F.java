@@ -12,32 +12,25 @@ public class F {
             seq[i] = scanner.nextInt();
         }
 
-        boolean isSymmetrical = true;
-        int left = 0;
-        int right = seq.length - 1;
-        while (left < right) {
-            if (seq[left] != seq[right]) {
-                isSymmetrical = false;
-                break;
-            }
-            left++;
-            right--;
+        int count = countAdditionSize(seq);
+        System.out.println(count);
+        for (int i = (count - 1); i >= 0; i--) {
+            System.out.print(seq[i] + " ");
         }
+    }
 
-        if (isSymmetrical) {
-            System.out.println(0);
-        } else {
-            int x;
-            if (seq[seq.length - 1] == seq[seq.length - 2]) {
-                x = seq.length - 3;
-            } else {
-                x = seq.length - 2;
+    public static int countAdditionSize(int[] seq) {
+        for (int i = 0; i < seq.length - 1; i++) {
+            int left = i;
+            int right = seq.length - 1;
+            while (seq[left] == seq[right] && right >= left) {
+                left++;
+                right--;
             }
-            System.out.println(x + 1);
-            while (x >= 0) {
-                System.out.print(seq[x] + " ");
-                x--;
+            if (left > right) {
+                return i;
             }
         }
+        return seq.length - 1;
     }
 }
