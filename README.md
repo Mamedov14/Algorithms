@@ -7,7 +7,7 @@
 #### lesson_1
 
 + [A. Кондиционер](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_1/A.md) [База]
-+ [B. Треугольник](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_1/B.md) [Тупо правило треугольника]
++ [B. Треугольник](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_1/B.md) [База]
 + [D. Уравнение с корнем](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_1/D.md) [База]
 + [F. Расстановка ноутбуков](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_1/F.md) [База]
 
@@ -17,6 +17,7 @@
 + [B. Определить вид последовательности](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_2/B.md) [База]
 + [C. Ближайшее число](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_2/C.md) [Бин поиск]
 + [D. Больше своих соседей](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_2/D.md) [База]
++ [E. Чемпионат по метанию коровьих лепешек](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_2/E.md) [База]
 
 ### Тренировка 2.0.
 

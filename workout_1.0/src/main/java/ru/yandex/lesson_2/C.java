@@ -3,7 +3,7 @@ package ru.yandex.lesson_2;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class С {
+public class C {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
