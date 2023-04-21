@@ -18,6 +18,7 @@
 + [C. Ближайшее число](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_2/C.md) [Бин поиск]
 + [D. Больше своих соседей](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_2/D.md) [База]
 + [E. Чемпионат по метанию коровьих лепешек](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_2/E.md) [База]
++ [F. Симметричная последовательность](https://github.com/Mamedov14/Algorithms/blob/master/Tasks/workout_1.0/lesson_2/F.md) [Палиндром]
 
 ### Тренировка 2.0.
 
